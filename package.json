@@ -3,6 +3,11 @@
   "displayName": "Toby TypeScript Pack",
   "description": "Toby Cm's TypeScript Extensions",
   "version": "0.0.1",
+  "publisher": "tobycm",
+  "repository": {
+    "type": "git",
+    "url": "https://dev.azure.com/tobycm/_git/toby-typescript-pack"
+  },
   "engines": {
     "vscode": "^1.81.0"
   },
