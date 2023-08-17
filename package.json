@@ -1,0 +1,24 @@
+{
+  "name": "toby-typescript-pack",
+  "displayName": "Toby TypeScript Pack",
+  "description": "Toby Cm's TypeScript Extensions",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "chamboug.js-auto-backticks",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "GregorBiswanger.json2ts",
+    "pmneo.tsimporter",
+    "steoates.autoimport",
+    "stringham.move-ts",
+    "wix.vscode-import-cost"
+  ]
+}
