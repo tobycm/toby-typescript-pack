@@ -6,7 +6,7 @@
   "publisher": "tobycm",
   "repository": {
     "type": "git",
-    "url": "https://dev.azure.com/tobycm/_git/toby-typescript-pack"
+    "url": "https://github.com/tobycm/toby-typescript-pack"
   },
   "engines": {
     "vscode": "^1.81.0"
