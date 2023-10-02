@@ -2,7 +2,7 @@
   "name": "toby-typescript-pack",
   "displayName": "Toby TypeScript Pack",
   "description": "Toby Cm's TypeScript Extensions",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "tobycm",
   "repository": {
     "type": "git",
