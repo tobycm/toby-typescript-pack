@@ -1,1 +1,1 @@
-# Pretty ok TypeScripts Extensions
+# Pretty ok TypeScript Extensions
